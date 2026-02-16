@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="brky-logo.png" alt="brky.ai" height="64" style="border-radius:8px">
+  <img src="assets/brky-logo.png" alt="brky.ai" height="64" style="border-radius:8px">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="marsis.png" alt="MARSIS" height="72">
+  <img src="assets/marsis.png" alt="MARSIS" height="72">
 </p>
 
 <h3 align="center">Cold Gas Thruster Analysis</h3>
