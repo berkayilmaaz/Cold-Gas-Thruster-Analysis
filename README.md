@@ -132,7 +132,7 @@ blowdown = thruster.tank_blowdown(
     V_tank=9e-3,
     p_tank_initial=300e5,
     p_regulated=40e5
-)
+)dfsdsfsdasdfsadffdsasfad
 
 print(f"Burn time: {blowdown['burn_time']:.2f} s")
 print(f"Total impulse: {blowdown['total_impulse']:.1f} N·s")
